@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"f6446e96-2778-4572-9498-1132ba480cde",
+	"author":	"Fabian",
+	"description":	{
+		"":	"Palette Boilerplate"
+	},
+	"version":	"0.0.1",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
